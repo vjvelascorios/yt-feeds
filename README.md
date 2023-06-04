@@ -21,9 +21,9 @@ Este modo despliega una interfaz sobre la cual es posible poner links de canales
 - En caso de presentar problemas, es posible que esten relacionados con la importación de los links del archivo de texto. Para evitarlos, es necesario asegurarse en la pantalla de importación que los links tienen una estructura vertical, es decir, que cada link se encuentre separado en distintas filas y no haya espacios al inicio o al final de cada cadena, por ejemplo:    
 
 ```{python}
-    link1
-    link2
-    link3
+link1
+link2
+link3
 ```
 
 Y evitar estructuras tipo:
