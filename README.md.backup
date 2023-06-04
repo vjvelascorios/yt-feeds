@@ -25,7 +25,6 @@ Este modo despliega una interfaz sobre la cual es posible poner links de canales
     link3
     ```
  Y evitar estructuras tipo:
- 
     ```{python}
     [_]link1
     link2[_]
